@@ -1,7 +1,7 @@
 # Tasks-Lec01-Python
 First lec was a quick induction for programming using python
 
-## First Task 
+## Quick Task 
 
 write a python code that handle login system :
 
