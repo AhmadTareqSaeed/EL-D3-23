@@ -2,7 +2,7 @@
 
 # Write a Python program to test whether a passed letter is a vowel or not.
 
-vowels = ['a','e','i','o','u']
+vowels = ['a','e','i','o','u','A','E','I','O','U']
 
 letter = input("Please enter your letter : ")
 
