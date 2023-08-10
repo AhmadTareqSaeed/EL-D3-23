@@ -1,6 +1,6 @@
 # Tasks-Lec02-Python
 
-##Task1 Find the largest item from a given list using loop
+## Task1 Find the largest item from a given list using loop
 
 
 ```bash
@@ -14,7 +14,7 @@ largest number is : 123
 
 ##
 
-##Task2 Write code to find automatically bitcoin rate
+## Task2 Write code to find automatically bitcoin rate
 
 output:
 ```bash
