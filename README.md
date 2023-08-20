@@ -6,6 +6,7 @@
 ```bash
 Lec1-Tasks
 Lec2-Tasks
+Lec3-Tasks
 ```
 
 ##
