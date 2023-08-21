@@ -44,7 +44,7 @@ import requests
 }
 ```
 ##
-## Task5 *Using PyAutoGUI*
+## Task5 *Using PyAutoGUI*:
 
 ### solution in PyAutoGUI Folder *README.MD attached*
 
