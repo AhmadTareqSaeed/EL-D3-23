@@ -25,12 +25,10 @@ output:
 ##
 ## Task4 *Get your location*:
 
-get your location [api.ipfy](https://api.ipify.org/?format=json)
+get your location [api.ipfy]([https://api.ipify.org/?format=json](https://ipinfo.io/156.208.255.89/geo))
 
 ```
 output:
-import requests
-
 {
 "ip": "156.208.255.89"
 "hostname": "host-156.208.89.255-static.tedata.net".
@@ -44,7 +42,7 @@ import requests
 }
 ```
 ##
-## Task5 *Using PyAutoGUI*:
+## Task5 *Using PyAutoGUI* :
 
 ### solution in PyAutoGUI Folder *README.MD attached*
 
