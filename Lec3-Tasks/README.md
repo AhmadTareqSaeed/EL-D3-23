@@ -25,7 +25,7 @@ output:
 ##
 ## Task4 *Get your location*:
 
-get your location [api.ipfy]([https://api.ipify.org/?format=json](https://ipinfo.io/156.208.255.89/geo))
+get your location [ipinfo.io](https://ipinfo.io/156.208.255.89/geo)
 
 ```
 output:
