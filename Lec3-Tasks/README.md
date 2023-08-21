@@ -16,7 +16,7 @@ Start a garden
 ##
 ## Task3 *Get your public IP*:
 
-get your ip [api.ipfy](https://api.ipify.org/?format=json)
+get your ip [ipinfo.io](https://api.ipify.org/?format=json)
 
 ```
 output:
