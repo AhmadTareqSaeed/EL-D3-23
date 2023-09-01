@@ -17,10 +17,15 @@ Topics :
 
 
 ```bash
+Python Tasks :
 Lec1-Tasks
 Lec2-Tasks
 Lec3-Tasks
 Lec4-Tasks
+Lec5-Tasks
+
+C++ Tasks:
+
 ```
 
 ##
