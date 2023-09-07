@@ -23,9 +23,12 @@ Lec2-Tasks
 Lec3-Tasks
 Lec4-Tasks
 Lec5-Tasks
-
-C++ Tasks:
+```
+```
+C++ Tasks: 
+Lec6-Tasks
 
 ```
+
 
 ##
