@@ -68,8 +68,8 @@ Descending order: 134 34 23 6 1
 ## Images
 
 ![This is an alt text.](8.1list.png "This is a sample image.")
-![This is an alt text.](8.3list.png "This is a sample image.")
-![This is an alt text.](8.5list.png "This is a sample image.")
+![This is an alt text.](8.3del.png "This is a sample image.")
+![This is an alt text.](8.5search.png "This is a sample image.")
 
 
 ## Links
