@@ -27,6 +27,8 @@ Lec5-Tasks
 ```
 C++ Tasks: 
 Lec6-Tasks
+Lec7-Tasks
+
 
 ```
 
